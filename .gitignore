@@ -1,0 +1,5 @@
+*.class
+out/
+Task06/db.properties
+Task06/lib/*.jar
+*.csv
