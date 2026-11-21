@@ -2,8 +2,8 @@
 
 | | |
 |---|---|
-| **Name** | V V Naveen Kumar |
-| **Register number** | 192321018 |
+| **Name** | BALA ASHWIN R |
+| **Register number** | 1921260102 |
 | **Course** | Programming in Java (CSA09) |
 | **Java version** | JDK 21 (tested with OpenJDK 21; JDK 17+ works because records and `instanceof` patterns are used) |
 | **Libraries** | Java AWT / Swing, JDBC. Task 6 with MySQL also needs `mysql-connector-j` in `Task06/lib/` |
